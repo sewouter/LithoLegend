@@ -1,0 +1,3 @@
+Here are a few rules about this repository
+
+- Add svg files into a given file
